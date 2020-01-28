@@ -1,0 +1,26 @@
+div.ball_selector{
+  display:inline-block;
+  width: 180px;
+  height:30px;
+  background-color: cornsilk;
+  border: 2px solid black;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  
+}
+
+div.ball_selector:hover{
+  cursor: default;
+  background-color: khaki;
+}
+
+img.ball_image{
+  vertical-align: middle;
+}
+
+input[type=button]{
+  padding:0 10px;
+}
