@@ -1,5 +1,5 @@
 # watt-finder.github.io
-Watt Shop Item Calculation for Pokemon Sw/Sh
+Watt Shop Item Calculation for Pokemon Sw/Sh. Access the app [here](https://watt-finder.github.io)
 
 ## How to Use?
 
